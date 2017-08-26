@@ -1,0 +1,2410 @@
+{
+  "settings": {
+    "name": "Namastien",
+    "currentPage": "sitehoofd",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/dsc-0499-128x85.png",
+    "noImageResize": "",
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 64,
+    "versionPublish": "4.2.2",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "sitehoofd": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-8",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0102-2-2000x1061.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "namasté",
+          "text": "Ik ben Stien en ik ga bloggen!<br><br>Waarom?&nbsp;<br>1. omdat de familie en vriendjes zo kunnen volgen wat ik uitsteek in het buitenland; <br>2. om mijn belevenissen en gedachten als een dagboek op te slaan;<br>3. om mijn reiskriebels met jullie te delen!<br><br>Dit alles los van de strakke structuur van instagram en de te 'openbaarheid' van facebook. En beginnen vloggen op youtube is nu ook wat overdreven. <br>Deze blog is het: Mijn eigen plek in mijn eigen format.<br><br>Deze schrijfsels zijn al vingeroefeningen voor het echte werk vanuit Nepal.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#features1-7\" data-toolbar=\"-mbrBtnMove\">reizen</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Ideeën</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Nepal</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#95b7c9"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "features1-f",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#95b7c9",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dsc-0102-3-600x337.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Italië 2017",
+          "subtitle1": "Friuli met het gezinnetje<br>",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"Italië\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">Da wil ik zien</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-20170630-204404499-hdr-600x337.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Polen 2017",
+          "subtitle2": "Krakau, Zakopane en Warschau met de vriendinnetjes",
+          "caption2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"Polen\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">En da ook</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-20170621-600x337.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Nepal&nbsp;",
+          "subtitle3": "Over het grote avontuur van september-oktober",
+          "caption3": "",
+          "button3": "<a data-app-btn=\"true\" href=\"Waarom?\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">Spannend...</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img_20170525-600x337.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "hersenspinsels",
+          "subtitle4": "Over luxe, profileren en imponeren<br>",
+          "caption4": "",
+          "button4": "<a data-app-btn=\"true\" href=\"hersenspinsels\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">kei interessant</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-20170621-600x337.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Nepal",
+          "subtitle5": "Over het grote avontuur van september-oktober",
+          "caption5": "",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">spjennend</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        }
+      ]
+    },
+    "Italië": {
+      "settings": {
+        "title": "Site Maker Title",
+        "meta_descr": "Site Maker Description"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": "7",
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/img-20170723-110007891-2-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0",
+                "overlayColor": "#000000",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Italië",
+                "showText": true,
+                "text": "Onze jaarlijkse zomertrek gaat meestal richting Italië. Dit jaar bezochten we de noordoostelijke regio Friuli. Het is de geboortrestreek van mijn opa. We huurden een huisje in de badplaats Lignano. Van hieruit deden we uitstapjes naar onder andere Triëste, mijn all time favorite Venetië en Brida, het bergdorpje waar opa ter wereld kwam. Hoewel Friuli niet kan tippen aan Toscane en Umbrië en een strandvakantie mij snel verveelt, hebben we een geweldige tijd gehad: mooie steden bezocht en een stukje van onze roots gevonden. Ook was het fijn om nog eens twee weken door te brengen met het gezin.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dsc-36-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "overlayColor": "#000000",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "<p><br><br><br><br>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style=\"font-size: 4.39rem; letter-spacing: -2px; line-height: 1.1;\">München</span></p>",
+                "showText": true,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dsc-0045-2-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.1",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "<span style=\"font-size: 4.39rem; letter-spacing: -2px; line-height: 1.1;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><br><span style=\"font-size: 4.39rem; letter-spacing: -2px; line-height: 1.1;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Aquileia</span><br><span style=\"font-size: 4.39rem; letter-spacing: -2px; line-height: 1.1;\"><br></span><br><span style=\"font-size: 4.39rem; letter-spacing: -2px; line-height: 1.1;\"><br></span><span style=\"font-size: 4.39rem; letter-spacing: -2px; line-height: 1.1;\"><br></span><br>",
+                "showText": true,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-20170720-074714942-2-2000x1332.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.1",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "<br><br><br><br><br>Lignano Riviera",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dsc-57-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "overlayColor": "#000000",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "<br><br><br><br><br><br><br><span style=\"font-size: 4.39rem; letter-spacing: -2px; line-height: 1.1;\">Cividale</span><br>",
+                "showText": false,
+                "text": "Onze jaarlijkse zomertrek gaat meestal richting Italië. Dit jaar bezochten we de noordoostelijke regio Friuli. Het is de geboortrestreek van mijn opa. We huurden een huisje in de badplaats Lignano. Van hieruit deden we uitstapjes naar onder andere Triëste, mijn all time favorite Venetië en Brida, het bergdorpje waar opa ter wereld kwam. Hoewel Friuli niet kan tippen aan Toscane en Umbrië en een strandvakantie mij snel verveelt, hebben we een geweldige tijd gehad: mooie steden bezocht en een stukje van onze roots gevonden. Ook was het fijn om nog eens twee weken door te brengen met het gezin.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dsc-56-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.1",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "<br><br><br><span style=\"font-size: 4.39rem; letter-spacing: -2px; line-height: 1.1;\"><br></span><span style=\"font-size: 4.39rem; letter-spacing: -2px; line-height: 1.1;\">Triëste</span><br>",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dsc-0473-2-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.1",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "<br><br><br><br><br><br>Venetië &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "_anchor": "slider-1n",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-17",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "heenrit met tussenstop in München",
+          "meta": "In Italië ben je niet op 1 2 3. Wij vinden het fijn om de autorit op te delen in twee delen. We maakten een tussenstop van twee nachten in München en hingen er een dag de toerist uit. Een goed idee!&nbsp;"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170717-110327601-2-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170717-110327601-2-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170729-090508259-hdr-2-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170729-090508259-hdr-2-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-34-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-34-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0397-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0397-2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-36-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-36-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-37-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-37-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-38-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-38-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-3-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-3-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170717-195119809-2-2000x2998-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170717-195119809-2-2000x2998.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-39-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-39-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-40-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-40-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0532-2-2000x1367-800x546.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0532-2-2000x1367.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_anchor": "gallery1-13",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-18",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Lignano Riviera",
+          "meta": "De badplaats waar ons vakantiehuis lag. Buiten een strand, jachthaventje, campings en duizenden vakantiehuisjes niet zoveel te zien. Op de dagen waarop we niet op trot waren, hebben we hier 's ochtends al eens gaan joggen, overdag aan het strand gelegen en 's avonds de plaatselijke crèmerie leeggeroofd, En vààk de kolonisten van Catan gespeeld. Dat is en blijft de shit. <br><br>Hier liet ik Guus en, toen die het beu was, een Afrikaanse vrouw aan het strand mijn haren invlechten. Geen reis is compleet als je niet een beetje aan het geyolo't hebt.<br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170720-075741712-2-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170720-075741712-2-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170720-073833426-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170720-073833426-2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170720-074758860-2-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170720-074758860-2-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170720-072422806-2-2000x2999-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170720-072422806-2-2000x2999.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170720-074714942-2-2000x1332-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170720-074714942-2-2000x1332.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170722-170326183-2-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170722-170326183-2-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170722-171044697-2-2000x3001-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170722-171044697-2-2000x3001.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170722-170126512-2-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170722-170126512-2-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170722-172153654-2-2000x2999-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170722-172153654-2-2000x2999.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_anchor": "gallery1-14",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-19",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Aquileila",
+          "meta": "De eerste uitstapjes!"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-5-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-5-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0035-2-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0035-2-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0045-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0045-2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-43-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-43-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0084-2-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0084-2-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0082-2-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0082-2-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0079-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0079-2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-45-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-45-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_anchor": "gallery1-15",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1a",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Opa's geboortestreek: <br>Monte Matajur, Brida en Cividale",
+          "meta": "De dag waarop we onze roots zochten in opa's geboortedorpje: Cividale. De dag begon al vroeg: om 7u zaten we in de auto. Op het programma stond een beklimming van de monte matajur, vervolgens Brida, hierna het bedevaartsoord Castelmonte en ten slotte Cividale itself, de stad in het dal.&nbsp;<br><br>Na een rit van een uur over de Povlakte begon de weg stilaan te klimmen. Op een smalle weg vol haarspeldbochten trotseerden we de beboste bergen richting Monte Matajur. Die beklommen we en genoten van het uitzicht. <br><br>Hierna reden we langs kronkelende paadjes verder richting opa's dorpje Brida.&nbsp;Pappi, mijn overgrootvader, verhuisde in de jaren '50 vanuit Brida naar Luik om er in de mijnen te werken. Iets later kwam mammi hem achterna met hun inboedel en de kinderen. Onze verbazing was groot: hoewel we meerdere kleine dorpjes gepasseerd waren, was dit bij uitstek het kleinst, hoogst en meest afgelegen. De weg stopte gewoonweg na Brida. Brida telde hooguit vijftien huizen. Liggen híér, op het einde van de wereld, onze roots? Op de geparkeerde auto's na leken we honderd jaar terug in de tijd te zijn gegaan. Bij één deurtje stonden klompen (klómpen!).&nbsp;We bleken de auto vlak vlak aan het lapje grond waar opa op ter wereld gekomen is te hebben geparkeerd. Hier bovenop vonden we het schattigste kittentje ooit. Guus en ik zagen dit als het lot: dit katje is voortbestemd om dezelfde weg richting België te volgen als mammi en pappi! We moeten hem meenemen! Helaas zagen mama en papa dit een beetje anders en hebben we hem moeten achterlaten. Maar niet zonder hem eerst uitgebreid te hebben gefotografeerd.&nbsp;<br><br><span style=\"font-size: 17px;\">Passerend bij het bedevaartsoord Castelmonte gingen we weer naar het dal voor een diner in Cividale. Mooie historische stad aan de rivier de Latisone.</span><br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-46-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-46-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170723-110007891-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170723-110007891-2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-47-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-47-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-48-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-48-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-49-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-49-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-50-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-50-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0176-2-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0176-2-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0179-2-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0179-2-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-52-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-52-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-6-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-6-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-53-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-53-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-54-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-54-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-55-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-55-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-60-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-60-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-57-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-57-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-58-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-58-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-59-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-59-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_anchor": "gallery1-16",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1f",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Udine",
+          "meta": "Udine città, hier gebeurt het. De stad leeft, maar het historisch centrum moet serieus onderdoen voor de gemiddelde Italiaanse stad. Voor mij was het vooral een dag van gewenning aan mijn nieuwe vlechthoofd."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170721-170825567-2-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170721-170825567-2-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170721-172831472-2-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170721-172831472-2-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170721-185221687-hdr2-2-2000x2998-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170721-185221687-hdr2-2-2000x2998.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170721-190600960-2-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170721-190600960-2-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170721-180404081-2-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170721-180404081-2-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170721-180731484-2-2000x2999-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170721-180731484-2-2000x2999.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170721-180829551-2-2000x2999-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170721-180829551-2-2000x2999.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170721-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170721-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_anchor": "gallery1-1i",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1g",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Triëste",
+          "meta": "Deze stad ligt in een oostelijk uithoekje van Italië tegen de grens van Slovenië geperst. Ook Triëste ligt op een uurtje treinen van ons huisje. De trein reed langs de adriatische kust. Dat leverde mooie uitzichten op. Mooie stad, leuke sfeer. Hier en daar Romeinse resten, langs de dijk imposante paleizen uit de 19de eeuw. De treinrit was trouwens ook heel plezant!"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-61-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-61-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0300-3-2000x1332-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0300-3-2000x1332.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-62-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-62-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-66-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-66-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170724-151804602-2-2000x1332-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170724-151804602-2-2000x1332.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-63-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-63-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-56-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-56-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0373-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0373-2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0382-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0382-2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0400-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0400-2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0393-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0393-2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-65-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-65-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_anchor": "gallery1-1j",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1h",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Venetië",
+          "meta": "Mijn all time favorite city. Dit bezoekje was mijn vierde keer in de Parel van Europa! Net als dat verdomde toerisme neemt mijn waardering voor de stad toe. Elke steegje is een nieuwe ontdekking.&nbsp;<br>We bezochten de Biënnale van Venetië, een tweejaarlijks 'songfestival voor kunst'. Dat was de moeite!&nbsp;<br>Dit zijn ineens de laatste foto's van Italië. Hopelijk heb je ervan genoten.&nbsp;"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0403-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0403-2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0438-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0438-2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0473-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0473-2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0503-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0503-2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0415-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0415-2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-67-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-67-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0501-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0501-2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0596-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0596-2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0499-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0499-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0494-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0494-2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0506-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0506-2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0569-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0569-2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0595-2-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0595-2-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0592-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0592-2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-68-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-68-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170726-172155827-2-2000x3001-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170726-172155827-2-2000x3001.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170726-171658729-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170726-171658729-2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0522-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0522-2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_anchor": "gallery1-1k",
+          "articleLayout": false,
+          "allItem": "All"
+        }
+      ]
+    },
+    "Polen": {
+      "settings": {
+        "title": "Web Site Generator Title",
+        "meta_descr": "Web Site Generator Description"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dsc-2-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.1",
+                "overlayColor": "#000000",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "<br><br>POLEN",
+                "showText": true,
+                "text": "Met Lynn, Jip en Helena deed ik in juni een toereke door Polen. Dat het de moeite was! Op de eerste dag zagen we iemand soep in een brood eten. Dat wilden we ook! Helaas is dat er niet van gekomen. Wel hebben we heel lekker en goedkoop gegeten! Ik kan geen genoeg krijgen van de poolse dumplings. Hmm. Ah ja, en ik had een paar weken voor vertrek mijn hand gebroken. Vandaar de plaaster op sommige foto's. ",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dsc-0019-2-2000x1332.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "<br><br><br><br><span style=\"font-size: 4.39rem; letter-spacing: -2px; line-height: 1.1;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Krakau</span><br>",
+                "showText": true,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dsc-20-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "<br><br>Zakopane &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/dsc-0277-2-2000x1332.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "<span style=\"font-size: 4.39rem; letter-spacing: -2px; line-height: 1.1;\"><br></span><span style=\"font-size: 4.39rem; letter-spacing: -2px; line-height: 1.1;\">Warschau</span><br><span style=\"font-size: 4.39rem; letter-spacing: -2px; line-height: 1.1;\"> </span><br><span style=\"font-size: 4.39rem; letter-spacing: -2px; line-height: 1.1;\"><br></span><br><span style=\"font-size: 4.39rem; letter-spacing: -2px; line-height: 1.1;\">&nbsp; &nbsp;</span><br><span style=\"font-size: 4.39rem; letter-spacing: -2px; line-height: 1.1;\"><br></span><span style=\"font-size: 4.39rem; letter-spacing: -2px; line-height: 1.1;\"><br></span><br>",
+                "showText": true,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "_anchor": "slider-1r",
+          "articleLayout": false,
+          "_styles": {
+            "H2": {
+              "text-align": "left"
+            },
+            "SPAN": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-p",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Krakau",
+          "meta": "21/06/2017 - 23/06/2017"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Vanuit het vliegtuigraampje konden we al zien hoe groen Krakau wel is. De randstad is luchtig bebouwd, huizen hebben een tuin. Het centrum is gespaard gebleven van hoge, glazen wolkenkrabbers. De eerste indruk vanuit de lucht zat dus al goed. Later op de eerste dag werden we wel wat teleurgesteld: de jeugdherberg bleek een vieze, oude blok te zijn met een onvriendelijke receptioniste, en onze volle groepskamer voor negen personen was piepklein: er was net genoeg plek voor drie driepersoonsbedden en negen kluisjes.&nbsp;In de supermarkt maakten we meteen kennis van de afstandelijkheid van de Polen: de verkoopster negeerde ons compleet toen we haar vroegen of een bepaald pizzabroodje vegetarisch was. ('Is this vegetarian' is toch niet moeilijk te verstaan?!) Het pittoreske stadcentrum, volledig omrand door een groene strook park, maakte wel heel wat goed. We hadden het geluk dat het net midzomer was en maakten een traditionele optocht mee. Vanuit Krakau bezochten we de zoutmijn van Wieliczka met mooie ondergrondse ruimten en meertjes. Er was zelfs een ondergrondse kerk, volledig uit zout vervaardigd. Indrukwekkend. De plantentuin van Krakau is enorm groot. We hebben er zeker drie uur rondgelopen. Ook bezochten we het kasteel. Aan de ingang was een balie waar je dure tickets kon kopen voor allerhande rondleidingen en tentoonstellingen in de kasteelruimtes. Achteraf gezien hadden we dat beter overgeslagen, want de inkom tot de binnenkoeren en stadsomwalling is gratis en d<span style=\"font-size: 1.07rem; line-height: 1.5;\">e betalende extra's waren voor ons geen meerwaarde. In het kasteel ontmoetten we vier trekkers die in hetzelfde hostel overnachtten. Toen het begon te regenen, hebben we samen met hen geschuild en veel plezier gemaakt onder het afdak. Krakau krioelt trouwens van de reisbureautjes die daguitstappen organiseren richting Auschwitz.</span></p><p>Ondanks onze slechte ervaring met de bewoners van Krakau, hebben we een fijne tijd gehad. Krakau is een mooie, ontspannen stad.&nbsp;</p>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170621-3-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170621-3-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170627-111548209-2-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170627-111548209-2-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0146-2-2000x1517-800x606.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0146-2-2000x1517.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0118-3-2000x2027-800x810.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0118-3-2000x2027.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170623-155032525-2-2000x2431-800x972.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170623-155032525-2-2000x2431.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0117-2-2000x2849-800x1139.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0117-2-2000x2849.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0021-3-2000x2021-800x808.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0021-3-2000x2021.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0024-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0024-2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0019-4-2000x2933-800x1173.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0019-4-2000x2933.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0129-2-2000x2761-800x1104.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0129-2-2000x2761.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170621-191849501-2-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170621-191849501-2-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-10-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-10-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-8-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-8-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170623-154625239-hdr-2-2000x2693-800x1077.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170623-154625239-hdr-2-2000x2693.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0101-2-2000x2340-800x936.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0101-2-2000x2340.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-12-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-12-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-13-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-13-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-14-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-14-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-15-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-15-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_anchor": "gallery2-v",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-r",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Zakopane",
+          "meta": "23/06/2017 - 26/06/2017"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>In het Tatra-gebergte genoten we van de natuur. Kleine busjes<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;brachten ons naar de mooiste wandelroutes en een tocht traditioneel raften. Natalia, de receptioniste van ons hostel, was absoluut de liefste poolse die we ontmoet hebben, en één van de weinigen die goed Engels sprak, &nbsp;Ze beantwoordde al onze vragen met een lach. Zakopane is de grootste stad in het Poolse gedeelte van het Tatra-gebergte, maar veel is er niet te zien behalve één straat vol restaurantjes en toeristische winkeltjes. We hebben ook hier lekker gegeten, en niet alleen lekkere dumplings: ergens achterin vonden we een italiaans restaurant. Hmm, hun pizza salmone zou ik elke dag wel kunnen eten...</span></p>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170625-135106208-hdr-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170625-135106208-hdr-2000x3555.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170625-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170625-2000x3555.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170625-170854651-hdr-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170625-170854651-hdr-2000x3555.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170625-1-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170625-1-2000x3555.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170626-110558501-hdr-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170626-110558501-hdr-2000x3555.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170626-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170626-2000x3555.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170626-1-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170626-1-2000x3555.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0169-2-2000x3583-800x1433.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0169-2-2000x3583.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170625-191104587-hdr-2-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170625-191104587-hdr-2-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170626-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170626-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170626-2000x1124-800x449.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170626-2000x1124.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170626-165722275-2-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170626-165722275-2-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-18-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-18-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-1-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-19-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-19-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-20-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-20-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0195-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0195-2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-22-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-22-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-23-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-23-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-24-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-24-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-25-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-25-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-26-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-26-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-27-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-27-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-28-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-28-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_anchor": "gallery2-w",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-t",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Warschau",
+          "meta": "26/06/2017 - 21/07/2017"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-u",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Naya en Sarah vergezelden ons na hun examens. Jeej! In Warschau huurden we een goedkoop appartementje. Daar hebben we wel wat last mee gehad. Het badwater liep niet door, de zogenaamde tweepersoonsbedden waren nauwelijks groter dan een enkel bed, de boiler werkte niet en er stonden maar vier stoelen. Tip: neem nooit de allergoedkoopste aanbieding! Maar oh wat was het oude centrum mooi! Pastelkleurige gevels met allerhande patronen op geschilderd en supergezellige pleintjes. Bijna niet te geloven dat al deze pracht tijdens WOII volledig platgebombardeerd was. Ook het dak van de universiteitsbibliotheek, waarop een tuin aangelegd is, en het Lazienki park met zijn mooie vijvers en paleizen waren heel gezellig. Qua moderne kunst is er ook wat te zien.&nbsp;</p>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170629-2-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170629-2-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170629-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170629-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170629-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170629-1-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170630-204404499-hdr-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170630-204404499-hdr-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0237-2-2000x2998-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0237-2-2000x2998.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170628-171236111-hdr-2-2000x2999-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170628-171236111-hdr-2-2000x2999.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170629-171557056-hdr-2-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170629-171557056-hdr-2-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170629-205502094-3-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170629-205502094-3-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-30-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-30-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170628-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170628-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0240-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0240-2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-29-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-29-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0273-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0273-2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0277-2-2000x1332-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0277-2-2000x1332.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-32-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-32-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-31-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-31-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_anchor": "gallery2-x",
+          "articleLayout": false,
+          "allItem": "All"
+        }
+      ]
+    },
+    "hersenspinsels": {
+      "settings": {
+        "title": "over luxe, profileren en imponeren",
+        "meta_descr": "Website Maker Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-y",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Hersenspinsels",
+          "meta": "over luxe, profileren en imponeren"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-10",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>FLARDEN IDEETJES - IK KAN ZE NIET LIJMEN en al zeker niet knippen</p><p>ik ben zwak HELP MIJ</p><p><br></p><p>Wanneer &nbsp;ik op facebook of instagram foto's zie passeren van meisjes op strandstoelen aan een zwembad van een hotel aan de kust van Mallorca, moet ik steeds een zucht onderdrukken. Niet alleen omdat ik niet begrijp dat een hotel een zwembad nodig heeft als het naast de kustlijn is gebouwd, en je daar dus evengoed kan zonnen en zwemmen, <b>MAAR OOK</b> De kustlijnen aan de middellandse zee staan propvol met dit soort all-in hotels waar mensen al hun spaargeld tegenaan knallen. Dat betalen ze om tussen talrijke lotgenoten op een strandstoel te kunnen gaan liggen aan een zwembad dat ze nauwelijks betreden en te wachten tot hun vel bruin is.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hoe haal je hier voldoening uit? Zit die hem in dat steeds bruiner wordende velletje, dat je daarna kan gaan showen en vergelijken? Of in de gedachte aan de mensen die dit soort vakanties niet kan betalen?&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">maar ook omdat ik denk aan hoeveel broden gekocht zouden kunnen worden met het geld dat ze ervoor betalen.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">De wereld is zo enorm groot. Zo groot dat het onmogelijk is om in elk land geweest te zijn. Maar mensen proberen niet eens. Ze gaan naar een land om te kunnen zeggen dat ze in dat land zijn geweest en hebben er niks anders gezien dan de luchthaven en hun all-in resort. Met wat geluk het toeristische centrum van het dichtsbijzijnde kuststadje. Hebben ze dan geen behoefte om rond te kijken, om te zien hoe mensen ter plekke leven, wat de historische schatten zijn van een nieuw gebied?&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">mensen hebben aandacht nodig. Ander blokje tekst over aandacht. Instagram, ikzelf met mijn blog, aanvaard/aangemoedigd worden door likes te krijgen. Self love is nodig, want als je je kop niet durft buitensteken, geraak je letterlijk nergens. Narcisme ook niet. Ik voel zelf de drang om foto's te posten, wetende dat je zo enkele seconden aandacht van anderen inneemt. Misschien positieve aandacht (aleja positief: als anderen dus jaloers op je zijn) ofwel negatieve aandacht (dat ze je een loser vinden). Al is het het tweede geval, mensen zijn al blij als ze die aandacht krijgen. IK HAAT MIJZELF HIEROM&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Waarom maak ik nu eigenlijk een blog? Omdat het op instagram niet lukt ofzo? Ik daar niet alombekend word? Moet ik naar Nepal om te kunnen vertellen dat ik in Nepal geweest ben? Stiekem wel. Alles gaat om jezelf profileren en anderen te imponeren.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Wat we dragen. Sommigen dragen Levi's t-shirts. Dat doen ze niet om zichzelf te onderscheiden van de rest, want iedereen die met zijn uiterlijk bezig is en ouders die willen blijven betalen heeft, draagt die t-shirts. Dus dat soort fashion draait om je rijkdom te tonen. Net zoals een t-shirt met het nike-logo weinig bijdraagt aan je persoonlijkheid. Dat witte stikseltje op je pet voel je alleen in je portemonnee. Kleding gaat niet enkel over modellen, kleuren, patronen. Het gaat om een logo. Smaak is onbelangrijk, luxe is wat telt. Jammer.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p>"
+        }
+      ]
+    },
+    "Waarom?": {
+      "settings": {
+        "title": "omdat",
+        "meta_descr": "Site Creator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-11",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Waarom",
+          "meta": "ik niet gewoon rechten studeer ofzo"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-12",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Omdat dat saai is. </p><p>Mijn moeder verwijt mij dat ik alles wat mij niet bevalt oversla.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Ja en?! Zo kom ik er ook wel, waar ik uiteindelijk ook moet 'komen' ofzo.&nbsp;</span></p>"
+        }
+      ]
+    }
+  }
+}
