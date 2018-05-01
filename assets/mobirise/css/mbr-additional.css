@@ -411,12 +411,6 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#features1-f .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #95b7c9;
-}
-#features1-f .mbr-cards-col:nth-child(odd) .card-subtitle {
-  color: #ffffff;
-}
 #header3-17 .mbr-section-title,
 #header3-17 .mbr-section-subtitle {
   text-align: center;
@@ -463,11 +457,7 @@ h6,
 #header3-t .mbr-section-subtitle {
   text-align: center;
 }
-#header3-y .mbr-section-title,
-#header3-y .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-11 .mbr-section-title,
-#header3-11 .mbr-section-subtitle {
+#header3-1y .mbr-section-title,
+#header3-1y .mbr-section-subtitle {
   text-align: center;
 }
